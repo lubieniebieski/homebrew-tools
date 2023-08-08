@@ -6,9 +6,9 @@ class MarkdownTools < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/lubieniebieski/homebrew-tools/releases/download/markdown-tools-0.2.1"
-    sha256 cellar: :any_skip_relocation, ventura:      "892c78dcda9d2b7d74e983c8ceb00a5ea583d8ba311de325b98dee19a69b49ea"
-    sha256 cellar: :any_skip_relocation, x86_64_linux: "4bc7988a1fa85b24e0d2818287d257e65076a283512c6742f930108c2d54e6aa"
+    root_url "https://github.com/lubieniebieski/homebrew-tools/releases/download/markdown-tools-0.3"
+    sha256 cellar: :any_skip_relocation, ventura:      "e19cf4a839ff7ec9447befd0688add1e90afd52f7aa05d91d06cac2dd88ac81e"
+    sha256 cellar: :any_skip_relocation, x86_64_linux: "71d6c89baa2b239c94565586e6bea15d339762df0bcda788fc4bcb7034651ca1"
   end
 
   depends_on "go" => :build
