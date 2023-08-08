@@ -1,8 +1,8 @@
 class MarkdownTools < Formula
   desc "Collection of tools for working with markdown files"
   homepage "https://github.com/lubieniebieski/markdown-tools"
-  url "https://github.com/lubieniebieski/markdown-tools/archive/v0.2.1.tar.gz"
-  sha256 "2f2086373bee464f354748f57b49331c7ee81bed97d0690200d8d9d8279844f9"
+  url "https://github.com/lubieniebieski/markdown-tools/archive/v0.3.tar.gz"
+  sha256 "3b22ce3610746b8faa030926026a9b292d23e7f268c754b35895fa24c1a7b38e"
   license "MIT"
 
   bottle do
