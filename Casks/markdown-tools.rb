@@ -1,7 +1,8 @@
 cask "markdown-tools" do
   arch arm: "arm64", intel: "x86_64"
-  version "0.4.1"
-  sha256 "92a31e8961290fb44de2ba59f8c0b38cc2895673a0217f7cfb9e2f1c3e90566d"
+
+  version "0.4.2"
+  sha256 "ae780cf5498da3bb3894edb603c95313ce4da5d7b63c6ae5217df86186b83a64"
 
   url "https://github.com/lubieniebieski/markdown-tools/releases/download/v#{version}/markdown-tools_v#{version}_macOS_#{arch}.tar.gz"
   name "markdown-tools"
